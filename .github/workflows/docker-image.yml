@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       IMAGE_NAME: optifood-management
-      PROJECT_ID: trackapp-238012
+      PROJECT_ID: optifood-production
     steps:
     - name: Checkout
       uses: actions/checkout@v2
